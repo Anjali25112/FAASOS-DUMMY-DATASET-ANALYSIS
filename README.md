@@ -1,5 +1,6 @@
 ## FAASOS Food Delivery Analysis
 ### To assess order patterns, delivery performance, and customer behavior for January 2021, with the aim of improving delivery reliability, retention, and peak-time operations.
+### [View the Presentation](https://docs.google.com/presentation/d/1XunsndGOuxQUu5Mlcx2pQgJxBTJhy6Ri/edit?usp=sharing&ouid=101082668737260446921&rtpof=true&sd=true)
 - What this project is about?
 This project analyzes Faasos’ food delivery operations in January 2021 across five major Indian cities (Bangalore, Delhi, Kolkata, Mumbai, New Delhi), focusing on order patterns, delivery performance, and customer behavior.
 
